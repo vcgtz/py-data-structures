@@ -1,0 +1,2 @@
+# Data Structures in Python
+This repository contains my own hand-coded implementations of various data structures. It serves as an ongoing resource for learning, academic study, coding practice, and future reference. Here, you will find efficient and clear examples of structures such as linked lists, trees, queues, stacks, and more, all designed to enhance understanding of these foundational concepts in computer science.
